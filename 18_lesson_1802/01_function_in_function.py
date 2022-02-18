@@ -31,4 +31,7 @@ def draw_square(obj, x, y, col, line, filled):
 
 t = Turtle()
 
+draw_square(t, 100, 100, 'cyan', 100, True)
+draw_square(t, -100, -100, 'red', 100, False)
+
 done()
