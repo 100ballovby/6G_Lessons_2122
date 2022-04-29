@@ -18,6 +18,6 @@ def spiral(obj, size, angle):
 t = Turtle()
 colormode(255)  # включить RGB
 t.speed(0)
-spiral(t, 350, 121)
+spiral(t, 350, 91.5)
 
 done()
